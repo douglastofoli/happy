@@ -28,7 +28,7 @@
 </p>
 
 <h2 id="technologies">
-  🛠 Technologies
+  🚀 Technologies
 </h2>
 
 This project uses to work:
