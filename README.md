@@ -27,6 +27,8 @@
   Happy is an application to connect people with institutional care homes. People can find out about the location and visitation rules and can make many children happy.
 </p>
 
+<br>
+
 <h2 id="technologies">
   🚀 Technologies
 </h2>
@@ -38,6 +40,8 @@ This project uses to work:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+<br>
 
 <h2 id="author">
   👷️ Author
