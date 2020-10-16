@@ -1,1 +1,97 @@
-# happy
+<p align="center"><img src="https://host.dougrt.dev/github/happy-logo.svg"/></p>
+<h4 align="center">NextLevelWeek 3.0 🚀</h4>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
+</p>
+
+<h1 align="center">
+  <img src="https://host.dougrt.dev/github/nlw2-logo.png" />
+  <br />
+  <a href="https://www.linkedin.com/in/douglastofoli/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Douglas%20Tofoli-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
+  </a>
+  <a href="./LICENSE">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/douglastofoli/proffy?logo=mint&style=flat-square">
+  </a>
+</h1>
+
+<p align="center">
+  <a href="#description">Description</a> •
+  <a href="#design">Design</a> • 
+  <a href="#features">Features</a> • 
+  <a href="#technologies">Technologies</a> •
+  <a href="#author">Author</a> •
+  <a href="#license">License</a> • 
+</p>
+
+<p align="center" id="description">
+  Proffy is a platform that connects students to teachers who are available to teach classes remotely or in person.
+  The platform was developed for Web and Mobile (Android and IOS).
+  This project was developed at Next Level Week #2.
+  Event that takes place over a week, with beginning, middle and end.
+</p>
+
+<h1 align="center" id="design">
+  <img src="https://host.dougrt.dev/github/proffy-1.png" />
+  <br />
+  <img src="https://host.dougrt.dev/github/proffy-2.png" />
+</h1>
+
+<h2 id="features">
+  Features
+</h2>
+
+### Web
+- Option to study or teach
+- Teacher registration form
+- Teacher filter
+- Contact teachers via WhatsApp
+
+### Mobile
+- Option to study
+- Teacher filter
+- Contact teachers via WhatsApp
+- Possibility to favor teachers
+- List of favorites
+
+<h2 id="technologies">
+  🛠 Technologies
+</h2>
+
+Technologies used in the backend, frontend and mobile:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [Axios](https://github.com/axios/axios)
+- [React](https://pt-br.reactjs.org/)
+- [Expo](https://expo.io/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+<h2 id="author">
+  👷️ Author
+</h2>
+
+<a href="https://github.com/douglastofoli/">
+  <img src="https://avatars1.githubusercontent.com/u/3953162?v=4" width="100px;" alt="My photo"/>
+  <br />
+  <sub><b>Douglas Tofoli</b></sub>
+</a>
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/douglastofoli/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/-Douglas%20Tofoli-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
+</a>
+
+<h2 id="license">
+  📝 License
+</h2>
+
+Copyright © 2020 [Douglas Tofoli](https://github.com/douglastofoli).<br />
+This project is [MIT](./LICENSE) licensed.
