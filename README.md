@@ -2,10 +2,10 @@
 <h4 align="center">NextLevelWeek 3.0 🚀</h4>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
 </p>
 
 <h1 align="center">
@@ -17,57 +17,26 @@
   </a>
 </h1>
 
+<br>
+
 <p align="center">
-  <a href="#description">Description</a> •
-  <a href="#design">Design</a> • 
-  <a href="#features">Features</a> • 
-  <a href="#technologies">Technologies</a> •
-  <a href="#author">Author</a> •
-  <a href="#license">License</a> • 
+  <img alt="Happy" src="https://host.dougrt.dev/github/happy-banner.png" width="100%">
 </p>
 
-<p align="center" id="description">
-  Proffy is a platform that connects students to teachers who are available to teach classes remotely or in person.
-  The platform was developed for Web and Mobile (Android and IOS).
-  This project was developed at Next Level Week #2.
-  Event that takes place over a week, with beginning, middle and end.
+<p align="center" id="project">
+  Happy is an application to connect people with institutional care homes. People can find out about the location and visitation rules and can make many children happy.
 </p>
-
-<h1 align="center" id="design">
-  <img src="https://host.dougrt.dev/github/proffy-1.png" />
-  <br />
-  <img src="https://host.dougrt.dev/github/proffy-2.png" />
-</h1>
-
-<h2 id="features">
-  Features
-</h2>
-
-### Web
-- Option to study or teach
-- Teacher registration form
-- Teacher filter
-- Contact teachers via WhatsApp
-
-### Mobile
-- Option to study
-- Teacher filter
-- Contact teachers via WhatsApp
-- Possibility to favor teachers
-- List of favorites
 
 <h2 id="technologies">
   🛠 Technologies
 </h2>
 
-Technologies used in the backend, frontend and mobile:
+This project uses to work:
 
 - [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [Axios](https://github.com/axios/axios)
-- [React](https://pt-br.reactjs.org/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 <h2 id="author">
